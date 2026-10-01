@@ -1,6 +1,6 @@
-# AI Engineering — learning in public
+# AI Engineering
 
-A full-stack developer (8 years) going under the hood of AI engineering: tokens, raw model APIs, tool calling, agent loops, memory, RAG, evals, MCP and production deployment.
+AI engineering: tokens, raw model APIs, tool calling, agent loops, memory, RAG, evals, MCP and production deployment.
 
 Everything is built from scratch first, then with frameworks. Progress and lessons are logged in [JOURNEY.md](JOURNEY.md).
 
